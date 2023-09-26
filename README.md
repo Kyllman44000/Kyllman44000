@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../css/header.css">
+        <title>web-form++</title>
+        <meta charset="utf-8">
+        <ul id="header">
+            <li id="Web-Forum">Web Forum ++</li>
+            <li id="Accueil">Accueil</li>
+            <li>Forum</li>
+            <li>Chat</li>
+            <li id="account">account</li>
+        </ul>
+    </head>
+</html>
